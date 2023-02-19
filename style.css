@@ -1,0 +1,22 @@
+.conteneur{
+    background-color: #717171;
+}
+
+p{
+    text-transform: capitalize;
+    
+}
+ul{
+    list-style-type: square;
+margin-left:500px;
+}
+span:hover{
+    display:none;
+    
+}
+.btn{
+    background-color:pink;
+    padding:5px 10px;
+    text-decoration:none;
+    color:#fffff0;
+}

@@ -20,3 +20,9 @@ span:hover{
     text-decoration:none;
     color:#fffff0;
 }
+
+div {
+
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
